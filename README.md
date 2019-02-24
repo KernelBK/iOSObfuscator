@@ -15,7 +15,7 @@
 * 9.网站自助服务支持如下后缀形式的文件传加固：ipa、.a、macho文件 ✔️
 
 
-# 自助服务请访问 [神盾科技官网](http://www.god-shield.com)
+# 自助免费服务请访问 [神盾科技官网](http://www.god-shield.com)
 
 # 高级服务请联系我们
 * 邮箱:shendun@god-shield.com 
