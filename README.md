@@ -1,6 +1,6 @@
 # iOSObfuscator
 ***
------![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo.png)
+<center>![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo.png)</center>
 
 ***
 
