@@ -1,8 +1,27 @@
 # iOSObfuscator
-***
-<center>![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo.png)</center>
 
-***
+![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo.png)
+
+# 最新版本：v2.0
+该软件可以有效解决机器审核4.3、2.1、2.3.1
+
+* 1.支持字符串加密  ✔️
+* 2.支持符号混淆  ✔️
+* 3.支持代码逻辑混淆   ✔️
+* 4.支持反调试  ✔️
+* 5.同时支持app和sdk加固 ✔️
+* 6.加固后的包大小可控 ✔️
+* 8.同时支持mac和linux平台 ✔️
+* 9.网站自助服务支持如下后缀形式的文件传加固：ipa、.a、macho文件 ✔️
 
 
-专为iOS项目进行字符串混淆，符号混淆、代码混淆。可以在网站自助服务直接针对iPA操作，也可以线下发邮件专人给你操作，加固更方便更快捷、完美支持Objc和Swift项目代码的自动混淆、支持修改资源文件hash值、类名、方法名、属性名、添加垃圾符号、垃圾代码、还支持反调试、反外挂等。。。功能强大而稳定。自助服务请直接访问 http://www.god-shield.com。
+# 自助服务请访问 [神盾科技官网](http://www.god-shield.com)
+
+# 联系我们
+* 邮箱:shendun@god-shield.com 
+* 客服QQ:2667069150
+* QQ用户交流①群:786457705
+
+
+
+# 注：该项目不开源，但是网站自助服务相当于是免费使用，如果想要开源的用户请慎重使用目，除去网站自助服务，针对Vip用户我们可以一对一的服务，具体详情请咨询作者，谢谢！
