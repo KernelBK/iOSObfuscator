@@ -17,7 +17,7 @@
 
 # 自助服务请访问 [神盾科技官网](http://www.god-shield.com)
 
-# 联系我们
+# 高级服务请联系我们
 * 邮箱:shendun@god-shield.com 
 * 客服QQ:2667069150
 * QQ用户交流①群:786457705
