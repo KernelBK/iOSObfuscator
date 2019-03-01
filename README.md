@@ -33,7 +33,7 @@
 * 11.网站自助服务支持如下后缀形式的文件传加固：ipa、.a、macho文件 ✔️
 
 
-# 自助免费服务请访问 [神盾科技官网](http://www.god-shield.com)
+
 
 # 过审成功案例
 *  一剑问情-热血侠侣修仙记:id1441499426：
@@ -45,6 +45,7 @@
 [![](https://github.com/godshield/iOSObfuscator/blob/master/logo/WechatIMG1.png)](https://itunes.apple.com/cn/app/id1383621901?mt=8)
 
 
+# 自助免费服务请访问 [神盾科技官网](http://www.god-shield.com)
 
 # 高级服务请联系我们
 * 邮箱:shendun@god-shield.com 
