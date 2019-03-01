@@ -36,8 +36,9 @@
 # 自助免费服务请访问 [神盾科技官网](http://www.god-shield.com)
 
 # 成功案例的分享
-[一剑问情-热血侠侣修仙记:id1441499426](https://itunes.apple.com/cn/app/id1441499426?mt=8）
-[欢乐吧—欢乐聚合秀场直播:id1383621901] https://itunes.apple.com/cn/app/id1383621901?mt=8 
+[一剑问情-热血侠侣修仙记:id1441499426](https://itunes.apple.com/cn/app/id1441499426?mt=8)
+
+[欢乐吧—欢乐聚合秀场直播:id1383621901](https://itunes.apple.com/cn/app/id1383621901?mt=8)
 
 # 高级服务请联系我们
 * 邮箱:shendun@god-shield.com 
