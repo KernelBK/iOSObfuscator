@@ -35,7 +35,7 @@
 
 # 自助免费服务请访问 [神盾科技官网](http://www.god-shield.com)
 
-# 成功案例的分享
+# 过审成功案例
 *  一剑问情-热血侠侣修仙记:id1441499426：
 
 [![](https://github.com/godshield/iOSObfuscator/blob/master/logo/WechatIMG1.png)](https://itunes.apple.com/cn/app/id1441499426?mt=8)
