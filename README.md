@@ -44,6 +44,8 @@
 
 [![](https://github.com/godshield/iOSObfuscator/blob/master/logo/WechatIMG2.png)](https://itunes.apple.com/cn/app/id1383621901?mt=8)
 
+
+
 # 高级服务请联系我们
 * 邮箱:shendun@god-shield.com 
 * 客服QQ:2667069150
@@ -51,4 +53,4 @@
 
 
 
-# 注：该项目不开源，但是网站自助服务相当于是免费使用，如果想要开源的用户请慎重使用目，除去网站自助服务，针对Vip用户我们可以一对一的服务，具体详情请咨询作者，谢谢！
+# 注：该项目商业版不开源，但是网站自助服务目前相当于是免费使用，如果想要开源的用户请移步另外一个此项目的[demo版](https://github.com/godshield/iPAObfuscator)仅供技术研究，除了网站自助服务，针对Vip用户我们可以一对一的服务，具体详情请可以联系我们，谢谢！
