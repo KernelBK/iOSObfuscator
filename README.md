@@ -34,7 +34,9 @@
 
 # 客户端最新版本：v1.0
   如下：下载试用请联系管理员QQ:1356734558
-  [![](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshield.png)]()
+
+![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshield.jpg)
+
 
 
 
