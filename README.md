@@ -3,7 +3,7 @@
 ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo.png)
 
 # 产品介绍
-**代码逻辑混淆的核心技术都是基于ovllm修改，作者是精通llvm底层技术爱好者，可以完全定制ollvm底层，做出很多变种，排除有可能被标记的地方.从而针对过审客户有效避免2.3.1等协议**
+**代码逻辑混淆的核心技术都是基于ovllm修改，作者是精通llvm底层技术爱好者，可以完全定制ollvm底层，做出很多变种，排除有可能被标记的地方.从而针对过审客户有效避免2.3.1等**
 
  * 两种模式：一种是客户网站自助服务，一种是给客户发送客户端工具，两种的优劣势对比如下：
  * 前者优点： 直接上传iPA包(带bitcode)即可加固，一键式操作，简单便捷，加固时间也较客户端版本少。
@@ -24,7 +24,7 @@
 # 适用对象
 * 针对过审客户
   
-  可以有效防止机器审核4.3、2.1、2.3.1
+  可以有效防止4.3、2.1、2.3.1
 * 针对纯加固用户
 
   可以保证您的代码安全不管是IPA还是SDK
@@ -35,7 +35,7 @@
 
 
 # 客户端最新版本：v1.0
-  如下：下载试用请联系管理员QQ:1356734558
+  如下：下载试用请联系管理员QQ:2667069150
 
 ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshield.jpg)
 
@@ -61,22 +61,13 @@
 
 
 
-# 过审成功案例
-*  一剑问情-热血侠侣修仙记:id1441499426：
-
-[![](https://github.com/godshield/iOSObfuscator/blob/master/logo/WechatIMG2.png)](https://itunes.apple.com/cn/app/id1441499426?mt=8)
-
-*  欢乐吧—欢乐聚合秀场直播:id1383621901：
-
-[![](https://github.com/godshield/iOSObfuscator/blob/master/logo/WechatIMG1.png)](https://itunes.apple.com/cn/app/id1383621901?mt=8)
-
 
 # 自助免费服务请访问 [神盾科技官网](http://www.god-shield.com)
 
 
 # 高级定制服务请联系我们
 * 邮箱:shendun@god-shield.com 
-* 客服QQ:1356734558
+* 客服QQ:2667069150
 * QQ用户交流①群:786457705
 
 
