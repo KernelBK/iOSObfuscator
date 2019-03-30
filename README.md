@@ -42,8 +42,8 @@
     * 4.使资源混淆(辅助)、符号混淆(辅助)、源代码混淆(辅助) 的比例可调
     * 5.修复一些bug
 
-界面如下：下载试用请联系管理员QQ:2667069150
-![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshield.jpg)
+演示如下：下载试用请联系管理员QQ:2667069150
+![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshieldShow.gif)
 
 
 
