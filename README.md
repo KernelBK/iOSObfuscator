@@ -47,14 +47,16 @@
 
     * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/kehuduan.png)
     
-* 演示如下：
+* 加固操作演示如下：
 
     * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshieldShow.gif)
 
-* 清晰版演示：
+* 加固操作清晰版演示：
 
     * https://pan.baidu.com/s/1XcDj6g0CcoIu92wtMLPgLg
-
+    
+* 加固后效果检查演示：
+    * https://pan.baidu.com/s/1z-Cf7qcGdT-RJKJCS-5TPg 
 
 # 网站最新版本：v2.1.0
 
