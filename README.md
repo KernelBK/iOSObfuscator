@@ -34,14 +34,13 @@
   除了能保护您的代码安全，还可以防止您的游戏被外挂攻击减少您的损失。
 
 
-# 客户端最新版本：v1.2.0
+# 客户端最新版本：v1.2.1
 * 更新如下：
-    * 1.修复一些bug( bundleID不匹配显示错误)
-    * 2.scheme名称支持空格。
-    * 3.去掉加固项目后产生的一些特征信息(__FILE__,assert)，防止被标记。
-    * 4.优化以源代码插入方式。
-    * 5.增加修改生成的包名为有意义单词
-    * 6.优化符号混淆过滤机制。
+    * 1.修复一些bug
+    * 2.对于纯加固用户支持SDK加固和模拟器架构的加固生成。
+    * 3.去掉加固项目后产生的更多特征信息防止被标记。
+    
+🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
 
 * 演示如下：
 ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshieldShow.gif)
