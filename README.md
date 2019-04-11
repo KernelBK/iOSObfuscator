@@ -43,11 +43,12 @@
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
 
 * 演示如下：
-![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshieldShow.gif)
+
+    * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshieldShow.gif)
 
 * 清晰版演示：
 
-https://pan.baidu.com/s/1XcDj6g0CcoIu92wtMLPgLg
+    * https://pan.baidu.com/s/1XcDj6g0CcoIu92wtMLPgLg
 
 
 # 网站最新版本：v2.1.0
