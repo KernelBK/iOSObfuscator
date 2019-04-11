@@ -42,6 +42,10 @@
     
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
 
+* 界面如下:
+
+    * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/kehuduan.png)
+    
 * 演示如下：
 
     * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/gdshieldShow.gif)
