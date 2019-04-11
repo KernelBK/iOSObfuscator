@@ -40,6 +40,7 @@
     * 2.对于纯加固用户支持SDK加固和模拟器架构的加固生成。
     * 3.去掉加固项目后产生的更多特征信息防止被标记。
     * 4.增加终端模式(可以使用命令行模式)
+    
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
 
 * 界面如下:
