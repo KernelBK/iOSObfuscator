@@ -34,15 +34,18 @@
   除了能保护您的代码安全，还可以防止您的游戏被外挂攻击减少您的损失。
 
 
-# 客户端最新版本：v1.2.1
+# 客户端最新版本：v1.2.2
 * 更新如下：
     * 1.修复一些bug
-    * 2.对于纯加固用户支持SDK加固和模拟器架构的加固生成。
-    * 3.去掉加固项目后产生的更多特征信息防止被标记。
-    * 4.增加终端模式(可以使用命令行模式)
+    * 2.优化命令行模式的切换。
+    * 3.优化代码逻辑混淆。
     
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
-
+* 更新如下：
+    *  代码逻辑混淆：
+       * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/pics/v1.2.2/code.png)
+    *  优化命令行模式的切换
+       * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/pics/v1.2.2/cmd.png)
 * 界面如下:
 
     * ![LOGO](https://github.com/godshield/iOSObfuscator/blob/master/logo/kehuduan.png)
