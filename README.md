@@ -39,7 +39,7 @@
   * 1. 修复bug
   * 2. 优化代码逻辑混淆
   * 3. 增加防重签名(重签名之后可闪退)
-  * 4 .增加SDK的反调试支持
+  * 4. 增加SDK的反调试支持
     
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
 * 更新如下：
