@@ -34,14 +34,12 @@
   除了能保护您的代码安全，还可以防止您的游戏被外挂攻击减少您的损失。
 
 
-# 客户端最新版本：v1.3.4.2
-* v1.3.4.2 更新如下：
+# 客户端最新版本：v1.3.4.3
+* v1.3.4.3 更新如下：
 *  1.修复bug
-*  2.优化加固时间更快更高速
-*  3.新增混淆静态库功能(类似U3d的libiPhone-lib.a)
-*  4.新增指定目录<Data->Raw、Data->Resources>资源混淆AddResThree
-*  5.修改产品整体操作界面简明扼要 
-*  6.新增启动时选择是否移动到Application目录。
+*  2.增加一键修复功能
+*  3.修改pods等三方库不进行字符串、代码混淆。
+
     
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
 * 更新如下：
