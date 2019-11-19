@@ -39,6 +39,8 @@
 *  1.修复bug
 *  2.增加一键修复功能
 *  3.修改pods等三方库不进行字符串、代码混淆。
+*  4.符号混淆增加leve4、level5级别
+*  5.修改产品使用说明
 
     
 🔍[查看更多历史更新记录](https://github.com/godshield/iOSObfuscator/blob/master/history.md)
